@@ -3,5 +3,5 @@ Diest sind die Wichtigsten Befehle mit Github:
 git init
 git add file.txt
 git commit -m "comment"
-git remote add origin https://github.com/Colardra/Hello246.git
+git remote add origin https://github.com/Colardra/Hello426.git
 git push -u origin master
