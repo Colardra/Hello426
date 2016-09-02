@@ -3,8 +3,13 @@ Diest sind die Wichtigsten Befehle mit Github:
 git init
 git add file.txt
 git commit -m "comment"
+<<<<<<< HEAD
 git remote add origin https://github.com/Colardra/Hello246.git
 git push -u origin master
 
 Ein Repository kann auch gecloned werden:
 git clone https://github.com/Colardra/Hello426.git
+=======
+git remote add origin https://github.com/Colardra/Hello426.git
+git push -u origin master
+>>>>>>> 224a8beae8c89b3561bcd030991f21e867af2ef5
